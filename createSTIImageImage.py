@@ -59,7 +59,7 @@ def draw_text_autosize_left(image, text, box_sizes, font_path,color="#000000",ma
 
     #Does the actual drawing
     draw.multiline_text((xpos, ypos + height / 2),"\n".join(best_lines),font=best_fit_font,fill=color,anchor="lm",align="left")
-    draw.rectangle([xpos, ypos, xpos + width, ypos + height],outline="red",width=1)
+    #draw.rectangle([xpos, ypos, xpos + width, ypos + height],outline="red",width=1)
 
 
 colorsToHex = {"Blue":"#2958A6", "Green":"#4B8312", "Red":"#791227", "Orange":"#A1640D", "Yellow":"#8F8713", "Purple":"#632595", "Pink":"#9A3C7A", "Teal":"#269484", "Gene":"#434343"}
