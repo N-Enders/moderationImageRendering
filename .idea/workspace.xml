@@ -4,159 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40c23b3a-493c-43c0-97f1-e8936678abda" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/moderationImageRendering.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIImages/AvatarBorder.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIImages/Blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIImages/Gene.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIImages/Green.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIImages/Orange.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIImages/Pink.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIImages/Purple.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIImages/Red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIImages/STIFont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIImages/STITwistFont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIImages/Teal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIImages/Yellow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIImages/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Airplane.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/ApplePicking.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/ArtMuseum.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/AvocadoToast.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/BBQ.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/BabyAnnouncement.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Barn.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Baseball.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Basketball.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Bat.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/BathroomStall.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Beach.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Bear.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Bicycle.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/BirthdayParty.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Bonfire.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/BookStore.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Boxing.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/BubbleBath.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Cabin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Camping.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Cat.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Chimpanzee.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Chinese.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/CoffeeShop.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/CompactCar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/ConcertStage.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Condo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/CondoInterior.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Convertible.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/DMV.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Dentist.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Desert.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Dog.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Dolphin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Elephant.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/EngagementRing.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/FarmHouse.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/FeetOnBeach.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Ferret.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Field.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Fireworks.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Football.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Forest.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Funeral.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/GasStation.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Giraffe.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Goldfish.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Gorilla.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Graduation.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Guacamole.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Gym.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Gyro.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Hamburger.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Hockey.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/HomeRepair.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Horse.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/HorseRace.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/HotAirBalloon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/HotDogs.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/HouseParty.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/IceCream.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Igloo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Indian.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Island.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Jeep.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Jungle.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Kite.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Kittens.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Laundromat.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Lion.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/London.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Mansion.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/MeatSkewer.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Meditation.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Mexican.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Minivan.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Moose.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Motel.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Motorcycle.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Mountains.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/MovieTheater.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Moving.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Museum.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Nascar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/NewYorkCity.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Office.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Orangutan.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Parade.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Paris.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Park.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/ParkingTicket.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/PickupTruck.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Pig.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Pizza.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/PoolParty.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/PostOffice.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Puppies.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Rabbit.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Rainstorm.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/RollerCoaster.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Rollerblades.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/RomanticGetaway.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Russia.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Sailboat.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Salad.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Salmon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/SanFrancisco.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Segway.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/SemiTruck.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/ShootingStar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Skyscraper.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Snake.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Soccer.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Spider.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/StationWagon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Statue.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Steak.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/SubwayCar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Suitcase.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Sunset.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Tennis.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Traffic.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Train.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/VR.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Vegas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Volleyball.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Voting.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Wedding.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Wrestling.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/WritingDesk.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STIPhotos/Yoga.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/createSTIImageImage.py" afterDir="false" />
+    <list default="true" id="40c23b3a-493c-43c0-97f1-e8936678abda" name="Changes" comment="Fixed debug image">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/createSTIImageImage.py" beforeDir="false" afterPath="$PROJECT_DIR$/createSTIImageImage.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "N-Enders"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/N-Enders/moderationImageRendering.git",
+    "accountId": "943d463c-481d-4e88-892e-704c9343ecb3"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -214,6 +76,28 @@
       <option name="presentableId" value="Default" />
       <updated>1787305682984</updated>
     </task>
+    <task id="LOCAL-00001" summary="it work">
+      <option name="closed" value="true" />
+      <created>1787311599413</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1787311599413</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Fixed debug image">
+      <option name="closed" value="true" />
+      <created>1787311925536</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1787311925536</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="it work" />
+    <MESSAGE value="Fixed debug image" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed debug image" />
   </component>
 </project>

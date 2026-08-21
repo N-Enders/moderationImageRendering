@@ -79,9 +79,10 @@ def buildSTIImage(image,twist,twisted_color,twisted_name):
 
 
     #background.paste(points,(0,0),points) will add when points are finalized
-    photo = Image.open("./STIPhotos/Dolphin.jpg").convert("RGBA")
+    photoName = "Dolphin"
     if Path(f"./STIPhotos/{image}.jpg").is_file():
-        photo = Image.open(f"./STIPhotos/{image}.jpg").convert("RGBA")
+        photoName = image
+    photo = Image.open(f"./STIPhotos/{photoName}.jpg").convert("RGBA")
     photo = photo.resize((round(photo.width * 0.9), photo.height),Image.Resampling.LANCZOS)
     #icon = ImageOps.expand(icon, border=10, fill='white') didn't work
 
